@@ -1,5 +1,12 @@
 .container {
-  width:800px;
+  width:1200px;
   height: 800px;
   background-color: #F5F5F5;
+}
+
+
+#groupon {
+  float:right;
+  width:33%;
+  height:15%;
 }
