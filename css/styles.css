@@ -2,11 +2,23 @@
   width:1200px;
   height: 800px;
   background-color: #F5F5F5;
+
 }
 
 
 #groupon {
-  float:right;
+  margin-top: 100px;
   width:33%;
   height:15%;
+  float:right;
+}
+
+#unilever {
+margin-top: 100px;
+
+}
+
+h1 {
+  font-weight:bold;
+  color:#505050
 }
